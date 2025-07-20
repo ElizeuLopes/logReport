@@ -1,0 +1,8 @@
+Manifest-Version: 1.0
+Premain-Class: com.logreport.agent.core.Agent
+Can-Redefine-Classes: true
+Can-Retransform-Classes: true
+Boot-Class-Path: logreport-agent-1.0.0-jar-with-dependencies.jar
+Implementation-Title: LogReport Agent
+Implementation-Version: 1.0.0
+Created-By: LogReport Team

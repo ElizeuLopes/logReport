@@ -1,0 +1,17 @@
+C:\Users\elize\OneDrive\Área de Trabalho\LogReport\src\main\java\com\logreport\agent\interceptor\RabbitMQInterceptor.java
+C:\Users\elize\OneDrive\Área de Trabalho\LogReport\src\main\java\com\logreport\agent\model\Payload.java
+C:\Users\elize\OneDrive\Área de Trabalho\LogReport\src\main\java\com\logreport\agent\interceptor\KinesisInterceptor.java
+C:\Users\elize\OneDrive\Área de Trabalho\LogReport\src\main\java\com\logreport\agent\core\HealthChecker.java
+C:\Users\elize\OneDrive\Área de Trabalho\LogReport\src\main\java\com\logreport\agent\interceptor\KafkaInterceptor.java
+C:\Users\elize\OneDrive\Área de Trabalho\LogReport\src\main\java\com\logreport\agent\core\AgentInitializer.java
+C:\Users\elize\OneDrive\Área de Trabalho\LogReport\src\main\java\com\logreport\agent\util\EnvironmentUtils.java
+C:\Users\elize\OneDrive\Área de Trabalho\LogReport\src\main\java\com\logreport\agent\model\LogRequest.java
+C:\Users\elize\OneDrive\Área de Trabalho\LogReport\src\main\java\com\logreport\agent\util\GsonUtils.java
+C:\Users\elize\OneDrive\Área de Trabalho\LogReport\src\main\java\com\logreport\agent\core\Agent.java
+C:\Users\elize\OneDrive\Área de Trabalho\LogReport\src\main\java\com\logreport\agent\core\Dispatcher.java
+C:\Users\elize\OneDrive\Área de Trabalho\LogReport\src\main\java\com\logreport\agent\config\AgentConfig.java
+C:\Users\elize\OneDrive\Área de Trabalho\LogReport\src\main\java\com\logreport\agent\interceptor\BatchInterceptor.java
+C:\Users\elize\OneDrive\Área de Trabalho\LogReport\src\main\java\com\logreport\agent\interceptor\CamelInterceptor.java
+C:\Users\elize\OneDrive\Área de Trabalho\LogReport\src\main\java\com\logreport\agent\interceptor\HttpInterceptor.java
+C:\Users\elize\OneDrive\Área de Trabalho\LogReport\src\main\java\com\logreport\agent\interceptor\SqlInterceptor.java
+C:\Users\elize\OneDrive\Área de Trabalho\LogReport\src\main\java\com\logreport\agent\util\ServletUtils.java
